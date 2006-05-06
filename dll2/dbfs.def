@@ -5,3 +5,5 @@ DESCRIPTION  'dbfs Windows Dynamic Link Library'
 EXPORTS
     ; Explicit exports can go here
 hello
+dll_interface
+md
